@@ -1597,6 +1597,4 @@ Number is NOT palindrome
 
 # RESULT:
  Thus the Commands are executed successfully.
-
-
  
