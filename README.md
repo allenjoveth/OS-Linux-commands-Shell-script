@@ -1592,9 +1592,7 @@ Enter the number
 69
 Number is NOT palindrome
 ```
-
-
-
 # RESULT:
  Thus the Commands are executed successfully.
+
  
